@@ -1,6 +1,6 @@
 branch 전략   
 main  
-   - develop  
+   - develop (default)
       - be  
       - front  
       - docs
